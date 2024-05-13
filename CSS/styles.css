@@ -1,0 +1,19 @@
+.topNav {
+    background-color: purple;
+}
+
+.nav-link {
+    color: white;
+}
+
+.btn, .btn-primary {
+    background-color: purple;
+}
+
+.mb-3 {
+    padding: 5px;
+}
+
+.mask {
+    padding: 30px;
+}
